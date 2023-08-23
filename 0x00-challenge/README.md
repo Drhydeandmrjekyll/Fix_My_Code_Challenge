@@ -1,1 +1,1 @@
-0x00. Fix my code
+#Solutions to 0x00. Fix my code
